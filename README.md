@@ -1,1 +1,4 @@
-# shopping-list
+- Eggs
+- Carrots
+- Whole Chicken
+- Milk
