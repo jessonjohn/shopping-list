@@ -3,5 +3,5 @@
 - Whole Chicken
 - Milk
 - Chocolate
-Baby Diapers
-Baby Formula
+- Baby Diapers
+- Baby Formula
